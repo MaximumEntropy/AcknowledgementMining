@@ -1,0 +1,769 @@
+None	6259
+University of California	24
+NIH	19
+Rockefeller University	15
+Harvard Medical School	15
+University of Pennsylvania	12
+Kyoto University	12
+Vanderbilt University	12
+Osaka University	11
+DSHB	10
+University of Oxford	10
+Duke University	10
+Stanford University	9
+Univ	9
+University of Washington	9
+University	8
+Department of Biochemistry	8
+CDC	8
+Emory University	8
+University of Alabama	7
+McGill University	7
+University of Dundee	7
+University of Glasgow	7
+Columbia University	7
+Washington University	7
+Dundee	6
+Nagoya University	6
+UCLA	6
+University of W&#x000fc;rzburg	6
+Northwestern University	6
+Hokkaido University	6
+University of Alberta	6
+University of Florida	6
+University of Wisconsin	6
+University of Geneva	6
+Kyushu University	6
+University of Manchester	6
+Yale University	6
+Oxford University	5
+University of Cambridge	5
+Pfizer	5
+Genentech	5
+University of Edinburgh	5
+University of Vermont	5
+Princeton University	5
+University of Leeds	5
+University of Michigan	5
+NIMR	5
+University of Illinois	5
+University of Bristol	4
+Wayne State University	4
+Lyon	4
+Inc	4
+University of Bern	4
+Cornell University	4
+Indiana University	4
+UT Southwestern	4
+Department of Pathology	4
+Boston University	4
+DNA	4
+University of Tennessee	4
+University of Zurich	4
+Drosophila	4
+Oosaka City University	3
+NYU	3
+Peking University	3
+DecreusefondC	3
+MIT	3
+Marseille	3
+Amgen Inc	3
+CEA	3
+Pennsylvania State University	3
+UCSF	3
+SseB	3
+University of Freiburg	3
+University of Iowa	3
+Institut Pasteur	3
+University of Toronto	3
+Uppsala University	3
+Nantes	3
+Harvard University	3
+University of Heidelberg	3
+University of Sydney	3
+VRC	3
+TrkA	3
+University of Liverpool	3
+University of Tokyo	3
+University of Basel	3
+Karolinska Institute	3
+UBC	3
+University of Maryland	3
+University of Minnesota	3
+EMBL	3
+University of Colorado	3
+University of Padova	3
+University of Virginia	3
+EPFL	3
+Cardiff University	3
+Colorado State University	3
+Baltimore	3
+SIV	2
+NS5A	2
+University of Pittsburgh	2
+INRA	2
+CSIC	2
+Glasgow University	2
+CTCF	2
+PCR	2
+FHCRC	2
+University of Helsinki	2
+University of Massachusetts	2
+Brandeis University	2
+University of T&#x000fc;bingen	2
+Mainz	2
+Rocky Mountains Laboratories	2
+Rutgers University	2
+Kitasato University	2
+University of Queensland	2
+Free University	2
+Department of Microbiology	2
+UAB	2
+Weill Medical College	2
+University of Kansas	2
+Laboratoire	2
+Bristol-Myers Squibb	2
+Pasteur Institute	2
+University of Mainz	2
+L-Plastin	2
+NCI	2
+Atlas	2
+Umea University	2
+University College Cork	2
+Besta Neurological Institute	2
+Merck	2
+IBMC	2
+Immunoprecise Antibodies Ltd	2
+Institute Pasteur	2
+Milan	2
+Santa Cruz Biotechnology	2
+University of Aberdeen	2
+Vasa	2
+Georgetown University	2
+Convergence Pharmaceuticals	2
+CNRS UPR	2
+Harvard	2
+NonA	2
+Niigata University	2
+Dundee University	2
+GCNA	2
+Saint Louis University	2
+Wageningen University	2
+Melinda Gates Foundation	2
+IMP	2
+Gunma University	2
+Cambridge University	2
+University of Halle	2
+Department of Virology	2
+University of Fukui	2
+ICOS Corporation	2
+UCD	2
+Montpellier	2
+GFP	2
+Faculty of Pharmacy	2
+FACS	2
+Howard Florey Institute	2
+Lille	2
+UTMB	2
+Department of Pharmacology	2
+MyosinVI	2
+Tohoku University	2
+University of Potsdam	2
+WNV	2
+University of Sheffield	2
+NOAA Center	2
+Novus Biologicals	2
+Hannover Medical School	2
+University of Groningen	2
+The Salk Institute	2
+Beatson Institute	2
+GlaxoSmithKline	2
+Tufts University	2
+University of Georgia	2
+The University	2
+Ventana Medical Systems	2
+IRCM	2
+WEHI	2
+National Cancer Institute	2
+Meiji University	2
+USDA	2
+University of Aarhus	2
+Iowa State University	2
+Johns Hopkins University	2
+Edinburgh University	2
+TbBiP	2
+Synaptic Systems	2
+Vanderbilt	2
+University of Texas	2
+Zhejiang University	2
+Johns Hopkins	2
+Stowers Institute	2
+Vision Research	2
+University of Arizona	2
+Utrecht	2
+CID	2
+University of Wisconsin-Madison	2
+Osaka City University	2
+University of Chicago	2
+CDRI	2
+University of Montreal	2
+PMVK	2
+AG Bornavirus	1
+Edinburgh Royal	1
+Protein Purification Unit	1
+Salk Institute	1
+Biogen	1
+Western University	1
+Trinity College	1
+CPV	1
+Kansas State University	1
+Biotecnol SA	1
+NCAM	1
+Stockholm University	1
+University of Niigata	1
+CRBM	1
+Institute of Physiology	1
+Mitf	1
+UMass Electron	1
+IFNG	1
+University of Rochester	1
+IBEB CEA-Cadarache France	1
+Technical University Dresden	1
+Toray Industry	1
+Link&#x000f6;ping University	1
+MRLC	1
+ALK	1
+UMass Medical School	1
+University of Valencia	1
+UMR-CNRS	1
+Hebrew University	1
+University of Missouri-Columbia	1
+Wake Forest University	1
+Chang Gung University	1
+University Hospital Groningen	1
+LMU	1
+Monash University	1
+Iwate University	1
+LSTM	1
+DDPSC	1
+Genomics Unit	1
+IgA	1
+University of Adelaide	1
+Scripps	1
+Karolinska	1
+University of Otago	1
+BCRT	1
+IBCP	1
+University of Limoges	1
+Department of Surgery	1
+HCI	1
+Laboraf	1
+EVA1C	1
+Utsunomiya University	1
+UFRJ	1
+LabCorp	1
+Ohio University	1
+Tokyo Metropolitan University	1
+University of Nagasaki	1
+CSIRO AAHL	1
+UMass Medical Center	1
+Dartmouth University	1
+Genotype 1b	1
+H.J. Vetten	1
+Technische Universitat Braunschweig	1
+NP	1
+University of Newcastle-upon-Tyne	1
+Transgenic Inc	1
+SBEM	1
+Doshisha University	1
+RPCI	1
+Nice	1
+MRC HGU	1
+RibeyeA	1
+Department of Biomedicine	1
+INRA Colmar	1
+Kumamoto University	1
+HSP	1
+MARCKS	1
+TWRI	1
+Animal Health Laboratory	1
+VeA	1
+MCAK	1
+Louisiana State University	1
+PepYMV	1
+LaTrobe University	1
+Institute of Zoology	1
+Duke	1
+Chinese University	1
+Mayo Foundation	1
+Immuno-Biological Laboratories Co	1
+University of Cincinnati	1
+Bath	1
+The Cochin Institute	1
+Galton Laboratory	1
+ORB	1
+ORC	1
+Department of Parasitology	1
+Pasteur Institut	1
+University of Tromso	1
+RWJMS-UMDNJ	1
+Elaine Corps	1
+EGFR	1
+UKM	1
+Cologne University	1
+GBE-lacZ	1
+University of Amsterdam	1
+Eagle	1
+Dr Louise Ford	1
+UTSW	1
+Elan Pharmaceuticals	1
+LM	1
+Patricija van Oosten-Hawle	1
+National Bioproducts Institute	1
+Arbor Vita Corporation	1
+Con Beckers	1
+Universidad Autonoma	1
+MreC	1
+GFAP	1
+Radiation Biology Center	1
+USDA Center	1
+Seoul National University	1
+Scr13A	1
+University of Nagoya	1
+Drosophila Gateway	1
+ACBP	1
+Crystal Pacut	1
+OHSU	1
+Cambridge Institute	1
+UMDNJ	1
+Universidad Complutense	1
+CDC Atlanta	1
+NMDA NR2B	1
+OmpA	1
+Karolinska Institutet	1
+IPMC	1
+Sanofi Aventis	1
+syndecan	1
+PhosphoSolutions	1
+MRC Technology	1
+FAU	1
+Broad Institute	1
+ApoB	1
+NHSBT Filton	1
+University of Vienna	1
+University British Columbia	1
+IBDML	1
+EIV A/equine/Miami/63	1
+Centre for Inflammation	1
+ICOS	1
+Genentech Inc	1
+Porto	1
+Prionics AG	1
+A/C	1
+Norwich	1
+CENPC	1
+Department of Psychiatry	1
+Centre medical Universitaire	1
+HRI	1
+University of Munster	1
+CNRS Strasbourg	1
+MRC	1
+Penn State Univ	1
+Temple University	1
+DBA	1
+NBB	1
+Nijmegen	1
+Neurophysiology Department	1
+Guelph University	1
+Nanjing Medical University	1
+Yeshiva University	1
+Helmholz Center	1
+anti-Homer	1
+McMaster University	1
+Universit&#x000e4;tsklinikum Regensburg Innere	1
+NdhL	1
+DUOX	1
+Newcastle University	1
+Ohio State University	1
+ATP7A	1
+Kennedy Institute	1
+Medical University	1
+RTA	1
+USUHS	1
+University of Nebraska-Lincoln	1
+University of Hannover	1
+University of Kent	1
+University of Montana	1
+Dartmouth Medical School	1
+Medical Research Council	1
+Genzyme Co	1
+POLYMUN Scientific	1
+Institute of Microbiology	1
+DSTT	1
+Doublesex	1
+University of California-Berkeley	1
+Institute of Anatomy	1
+SET	1
+Georgia State University	1
+NTUH	1
+H&#x000e4;lsa Fund	1
+Hagedorn Research Institute	1
+same Department	1
+Hiroshima University	1
+UCSB	1
+Biosignal Research Center	1
+AEP	1
+Max Plank Institute	1
+LLMP	1
+University Medical Center	1
+Loyola University Chicago	1
+Department of Biology	1
+BioFocus	1
+PVX	1
+Universit&#x000e4;tsklinikum Hamburg-Eppendorf	1
+Scripps Research Institute	1
+Departments of Virology	1
+CHUL Research Center	1
+SEM	1
+EKLF	1
+FRG	1
+Gent	1
+CART	1
+Novartis	1
+KAN Research Institute	1
+UNC	1
+IMV	1
+Steere AC	1
+IDSHB	1
+University of Rijeka	1
+CRUK Cambridge Institute	1
+VE-Cadherin	1
+Institut de Biologie	1
+Stony Brook University	1
+Department of Zoology	1
+University of Muenster	1
+John Hopkins University	1
+University of Teramo	1
+Konstanz University	1
+University Hospital Z&#x000fc;rich	1
+Department of Molecular	1
+JNK/SAPK	1
+University Roma Tre	1
+UbdA	1
+University Paris Diderot	1
+China Agricultural University	1
+Perutz Laboratories	1
+UCR	1
+CIML	1
+RPA	1
+F5D	1
+Sogang University	1
+VRC Flow	1
+Attana AB	1
+Department of Genetics	1
+Cedars-Sinai Medical Center	1
+ICOS Corp	1
+SUNY	1
+RING1B	1
+Ntla	1
+faba bean	1
+SLO	1
+ZMNH	1
+Burnham Institute	1
+LexA	1
+Whitehead Institute	1
+BIOTEC	1
+DKFZ	1
+Universitat de Barcelona	1
+RDL	1
+Jackson Laboratory	1
+BDSC	1
+M6PR	1
+Case Western University	1
+Faron Pharmaceuticals	1
+CCA-VUMC	1
+Tokai University	1
+MUSC	1
+RecA	1
+mtagRFP-PALM	1
+MDBK	1
+NHLBI Electron	1
+Katholieke Universiteit Leuven	1
+RD21A	1
+MEEC	1
+Institute of Biochemistry	1
+FTZC	1
+Riken Institute	1
+Miami University	1
+Heidelberg University	1
+University of Osaka	1
+Drosophila PPO1	1
+Department of Oncology	1
+INSERM Research Unit	1
+University of Crete	1
+Opc	1
+DCV	1
+Bioklone Pvt Ltd	1
+IMCB	1
+LRAT	1
+Merck Biosciences	1
+University of London	1
+Minerva Biotechnologies	1
+Ben-Gurion University	1
+Proteimax Biotechnology	1
+Department of Immunology	1
+University of Kentucky	1
+Notre Dame University	1
+Creighton University	1
+University of Hohenheim	1
+The Cancer Institute	1
+Applied Bio Technology	1
+Epoch Life Science	1
+EMD Millipore	1
+National Cancer institute	1
+University of Verona	1
+CRX	1
+Tufts Medical Center	1
+BCRP	1
+University of Colonge	1
+GSK	1
+University X. Bichat	1
+UC Berkeley	1
+Scripps Institute	1
+NIDCR/NIH	1
+PA	1
+University of Perugia	1
+Fibulin	1
+PHOL	1
+Blackburn	1
+ATP-synthase subunit	1
+Queen 's University	1
+MHC	1
+Taiho Pharmaceutical Co	1
+Vinexin	1
+University Halle-Wittenberg	1
+Byrd Alzheimer Institute	1
+Beckman Coulter Corporation	1
+Orientia	1
+University of M&#x000e1;laga	1
+University of Sussex	1
+UAST	1
+Institute of Hygiene	1
+Genzyme	1
+University of Melbourne	1
+Periodontal Research	1
+RacA	1
+NIH/NIDCR	1
+University of Konstanz	1
+GABA	1
+Okita	1
+University of Lund	1
+Yale university	1
+Environmental Proteomics	1
+London Research Institute	1
+D.R. Alessi	1
+MacroGenics	1
+Medical University Vienna	1
+Vollum Institute	1
+Department of Neurology	1
+ALTANA Pharma AG	1
+University of York	1
+Department d 'Histologie	1
+IEM	1
+PfClag	1
+NMR	1
+Ruhr University Bochum	1
+CCRP	1
+RpoA	1
+University Muenster	1
+Albert Einstein University	1
+R.S.R. Ltd	1
+University of G&#x000f6;teborg	1
+WC Summers	1
+National University	1
+WSP	1
+University of Regensburg	1
+Toray Industries	1
+Griffith University	1
+AIF	1
+siRNA	1
+Institute of Cellular	1
+Celltech Ltd	1
+Ryukyu University	1
+IByME-CONICET	1
+MBC	1
+University of Oregon	1
+Human Genome Sciences	1
+FAM	1
+Oxford	1
+Lunenfeld Institute	1
+HDEL	1
+ZMBP	1
+PCNA	1
+University of Calgary	1
+ECTV	1
+University of Ulm	1
+Tongji Medical College	1
+Imperial College London	1
+University of Osnabr&#x000fc;ck	1
+IU	1
+Barcelona	1
+Orco	1
+Lund University	1
+MSSM Hybridoma	1
+LCO	1
+BRIC	1
+IRB	1
+TPH	1
+Bloomington Stock	1
+UAM	1
+EBF	1
+CNDR	1
+CNR Grenoble	1
+M2AP	1
+G&#x000f6;teborg University	1
+Cambridge Research Institute	1
+VRC/NIAID/NIH	1
+PrP	1
+Spo0A	1
+University of Newcastle	1
+LRPPRC	1
+Takeda Pharmaceutical Co	1
+Martin-Luther-University	1
+Neotope Biosciences	1
+Biomolecular Resource	1
+Skirball Institute	1
+EBNA-LP	1
+Millenium Pharmaceuticals	1
+Biogen Inc	1
+HBV	1
+Cornell Medical College	1
+Koyoto University	1
+Histone	1
+Helmholtz Center	1
+The McKnight Institute	1
+MYC	1
+Bilkent University	1
+Forsyth Institute	1
+HURP	1
+Sanofi-Aventis	1
+Regeneron Pharmaceuticals	1
+N8A	1
+Chemistry Department	1
+Kinki University	1
+BOKU	1
+MPIIB	1
+OM Aparicio	1
+GXM	1
+Collagen	1
+OC	1
+Affiliation	1
+Carter Immunology Center	1
+Sprouty	1
+Gladstone Institute	1
+UTHSC San Antonio	1
+CFTR	1
+SIVMAC Nef	1
+Wistar Institute	1
+Dana-Farber Cancer Institute	1
+Royal Veterinary College	1
+GLUT	1
+Indian Immunologicals Ltd	1
+University of Kyoto	1
+FLI	1
+Heinrich&#x02013;Pette Institute	1
+Osaka Bioscience Institute	1
+EED	1
+Drexel University	1
+Macquarie University	1
+Jawaharlal Nehru University	1
+King 's College	1
+La Trobe University	1
+Texas Tech University	1
+Durham	1
+Scripps Florida	1
+University of Leicester	1
+Green Mountain Antibodies	1
+Beijing Genomics Institute	1
+SipC	1
+University Kiel	1
+Monoclonal Antibody Institute	1
+CNIC	1
+Osaka R&#x00026;D Laboratory	1
+CRUK	1
+Universidad	1
+University Munich	1
+CNIO	1
+NEI/NIH	1
+School of Immunity	1
+Fort Collins	1
+IGBMC	1
+UAS-Spn27A	1
+TBEV	1
+Cancer Research UK	1
+AstraZeneca	1
+JB1A	1
+UC	1
+FAM111A	1
+Loyola University	1
+NEB	1
+University of Pittsburg	1
+ICR	1
+Massachussets University	1
+University of Guelph	1
+Clarkson University	1
+School of Pharmacy	1
+Kansai Medical University	1
+UIC	1
+University of C&#x000f3;rdoba	1
+MCRI	1
+PML	1
+Meharri Medical College	1
+Tax2B	1
+AdK	1
+University College London	1
+Standford University	1
+CNRS	1
+Radboud University	1
+University of Miami	1
+Mo-MuLV CA	1
+UMC Utrecht	1
+DZNE	1
+MgcRacGAP	1
+Institut Pasteur-Cambodia	1
+Cure Foundation	1
+University Graz	1
+Human Protein Atlas	1
+USC	1
+VIB-Ghent University	1
+Institute of Immunology	1
+University of Oklahoma	1
+Cnn	1
+Bethyl Laboratories	1
+Math1GFP/GFP	1
+Yale Univ	1
+PcanV	1
+UZH	1
+Aarhus University	1
+Lab	1
+Children 's Healthcare	1
+CA	1
+University of Birmingham	1
+Thomas Jefferson University	1
+ICH	1
+CIDC	1
+HOP	1
+Kagoshima University	1
+AZ	1
+VZV	1
+Carnegie Institution	1
+MedImmune	1
+UMASS Amherst	1
+University of Utah	1
+Chungbuk National University	1
+UMass Worcester	1
+Universidade	1
+PFR	1
+BRAF	1
+BtpA	1
+Flora Hewlett Foundation	1

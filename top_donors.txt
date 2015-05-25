@@ -1,0 +1,769 @@
+	462
+Keith Gull	32
+Albert Einstein College of Medicine	15
+Peter Davies	12
+K. Gull	10
+Elisabeth Kremmer	10
+Hugo Bellen	10
+C.	10
+Erich Buchner	10
+Jay Bangs	9
+Walter	9
+Charles Rice	9
+Paul Lasko	8
+Aaron DiAntonio	7
+Davis	7
+Thomas Jenuwein	7
+Arturo Casadevall	7
+James Hastie	7
+Arbovirus Diseases Branch	7
+Wang	7
+Larry Fisher	7
+Li	6
+zebrafish	6
+Susan Strome	6
+P. Davies	6
+Nahum Sonenberg	6
+G. Meister	6
+Drosophila	6
+T. Jessell	6
+T. Sudo	6
+Chris Wright	6
+Gary Ward	5
+Haruhiko Koseki	5
+Tom Jessell	5
+Christine Chaponnier	5
+Steven Foung	5
+Burnham Institute	5
+Paul Martin	5
+Mayo Clinic	5
+R. White	5
+Pasteur Institute	5
+Wu	5
+Grant	5
+William Britt	5
+Dijke	5
+Harold Gainer	4
+Michael Wegner	4
+T. Kusch	4
+Zhou	4
+Michael Malim	4
+David Hyde	4
+R. Scott Hawley	4
+Claude Nappez	4
+Chris Franklin	4
+C. Franklin	4
+Ingrid Grummt	4
+E.B.	4
+Kristian Helin	4
+David Sibley	4
+A. Audhya	4
+J. Saari	4
+Rolf Jessberger	4
+Bellinzona	4
+M.K.	4
+T. Xu	4
+Graham Warren	4
+Liu	4
+Dagmar Wilhelm	4
+Istvan Ando	4
+Dennis Burton	4
+Minu Chaudhuri	4
+Paul Greengard	4
+Janis Stark	4
+Cheryl M. Craft	4
+R. Paro	4
+Gunter Meister	4
+Masatoshi Takeichi	4
+John Lucchesi	4
+Terry Orr-Weaver	4
+Tom Orfeo	4
+Thomas Shenk	4
+K. Mackie	4
+Darius Moradpour	4
+J. Trotter	4
+Bernard Moss	4
+Ikuko Hara-Nishimura	4
+Cheryl Craft	4
+Ruth Palmer	4
+Robert Molday	4
+David Montefiori	4
+Lund	3
+Dr Sara Mole	3
+Paul Linser	3
+Paul Knox	3
+J Workman	3
+John	3
+Theresia Stradal	3
+R. Molday	3
+Mike Nonet	3
+Bruno Stieger	3
+Elizabeth Wayner	3
+Osamu Kaneko	3
+Barbara Davis Center	3
+Siegfried Labeit	3
+Dirk Eick	3
+Chen	3
+Vern Carruthers	3
+David J. Chen	3
+O. Haller	3
+Clay Smith	3
+Peter Seubert	3
+Qiang Zhou	3
+Jan Langeveld	3
+Roger Tsien	3
+Leslie Vosshall	3
+Baolin Wang	3
+Jim Skeath	3
+S&#x000e3;o Paulo	3
+B. Grant	3
+Takeshi Urano	3
+J. Grassi	3
+R. Schekman	3
+Ron Hay	3
+H. Saumweber	3
+Yoshihiko Funae	3
+Volker Gerke	3
+Alana O 'Reilly	3
+Daubener	3
+Roche	3
+Kim Nasmyth	3
+Stuti Sharma	3
+R. Stanewsky	3
+Werner M&#x000fc;ller	3
+N. Mart&#x000ed;n	3
+Dr George Enders	3
+Anna Huttenlocher	3
+Jean-Francois Dubremetz	3
+T. Orr-Weaver	3
+BouthillierY	3
+Klaus Strebel	3
+Noel Lowndes	3
+Connie Cepko	3
+Christian Baron	3
+D. Vestweber	3
+Dr S. Sipione	3
+Thomas Jessell	3
+Jean Lee	3
+S.J. Kaufman	3
+S.	3
+Su	3
+T. Sasaki	3
+Grahame Hardie	3
+Jens Lykke-Andersen	3
+Andreas Ladurner	3
+H. J. Bellen	3
+Paul Hargrave	3
+Mary Beckerle	3
+Connie Schmaljohn	3
+Michael Schleicher	3
+John Reinitz	3
+Claudia Daubenberger	3
+James Bangs	3
+Barale	3
+Peter Carlsson	3
+L. Reichardt	3
+Ralph Nixon	3
+Tamara Caspary	3
+RNAi	3
+C. Rice	3
+Robert White	3
+Illkirch	3
+Ryoichiro Kageyama	3
+Gary Struhl	3
+M. Siomi	3
+T. Hackstadt	3
+John Boothroyd	3
+Natasha Raikhel	3
+Jan-Michael Peters	3
+Keith Reimann	3
+Dendritics	3
+Mick Tuite	3
+Isabel Palacios	3
+Lorenzo Capucci	3
+Oswestry	3
+A. Dernburg	3
+Elan Pharmaceuticals	3
+U. Banerjee	3
+Hiroshi Kimura	3
+Toshiaki Noce	3
+Grant RUG	3
+Duane J. Gubler	3
+Adriana La Volpe	3
+Bruce Stillman	3
+H. Kimura	3
+Karsten Skjoedt	3
+Hu	3
+Mark Field	3
+Erich Nigg	3
+Vince Shankey	3
+Akira Shinohara	3
+Neil D. Christensen	3
+Zissimos Mourelatos	3
+D. Bilder	3
+T. Noce	3
+Ken-ichirou Morohashi	3
+Inc	3
+M. Zetka	3
+Seth Pincus	3
+Patricia Johnson	3
+Gideon Dreyfuss	3
+Ann Arbor	3
+I. Adams	3
+Kathryn Miller	3
+Manfred Frasch	3
+Laurence Pelletier	3
+Tatsunori Seki	3
+Keith Matthews	3
+Peter	3
+Kirsten McLeod	3
+Liqun Luo	3
+Charles M. Rice	3
+Lisa Denzin	3
+Thomas Gettys	3
+Sam Gandy	2
+Michael Akam	2
+Gerald Hart	2
+V. Morisset	2
+Novotec	2
+Hamilton	2
+Spyros Artavanis-Tsakonas	2
+Wieringa	2
+Dr DeCamilli	2
+C. Wright	2
+C.B.	2
+K. Irvine	2
+Thomas	2
+E.M. Rodriguez	2
+Desmoglein	2
+Charles Stiles	2
+Asish Saha	2
+David V. Pow	2
+Anan Chuntharapai	2
+Angus Nairn	2
+M. Grunstein	2
+Jeffrey H. Miner	2
+Jaisri Lingappa	2
+Sona Babcanova	2
+Dr J. Kadonaga	2
+I Peluso	2
+Robert S. Molday	2
+Iain Hagan	2
+Kathryn Anderson	2
+Steven S. Gross	2
+S. bongori	2
+B. West	2
+Geshanthi Hondhamuni	2
+R Hay	2
+Albert Einstein University	2
+P. P. Reddi	2
+Alice Barkan	2
+M.	2
+Podoplanin	2
+Lelystad	2
+Ma	2
+J. Peterson	2
+Henrik Dohlman	2
+Morgan Sheng	2
+Lou Herrit	2
+Albert Einstein College of Medecine	2
+Laurie Glimcher	2
+Hiroshi Okamoto	2
+Tom Rapoport	2
+Wellcome Trust/JDRF Grant	2
+A. Pellicioli	2
+G. Cavalli	2
+T. gondii	2
+de Louvain	2
+Elizabeth Craig	2
+Judith Green	2
+Dr Charles Rice	2
+Isaac Edery	2
+Jeff Hall	2
+L. Yang	2
+CM Zhang	2
+Colin Jamora	2
+Tatsuya Hirano	2
+Junjie Chen	2
+John Radcliffe Hospital	2
+Elaine Tuomanen	2
+Kim McKim	2
+Lori Wallrath	2
+A.F. Parlow	2
+Dennis J. Selkoe	2
+R.J. Lefkowitz	2
+J. Boothroyd	2
+Melanie Marketon	2
+Arnoud Sonnenberg	2
+Sandra Denery-Papini	2
+M. Hortsch	2
+Richard Frisque	2
+Robert Hurwitz	2
+Schiaffino	2
+Scott Hawley	2
+T. Elthon	2
+Ronald Roepman	2
+Frank Sargent	2
+Kenshi Komatsu	2
+Malini Raghavan	2
+Nikolaus Osterrieder	2
+Sue Jaspersen	2
+Taeko Kobayashi	2
+Dan Engel	2
+Jacques Grassi	2
+Dr Theodore G. Wensel	2
+Niels Galjart	2
+Dr Rajat Rohatgi	2
+Jocelyn	2
+W. Stallcup	2
+L.D. Sibley	2
+Frederick	2
+Nikhat Parveen	2
+R. Karabudak	2
+Robert Krug	2
+Michael Rosbash	2
+John Woolford	2
+Ken Kemphues	2
+Christos Samakovlis	2
+Jean-Marc Fritschy	2
+Ttk	2
+Marian Difiglia	2
+Chandra Mohan	2
+Walter Miller	2
+T.E. Martin	2
+Toshie Kai	2
+Novartis	2
+Richard Palmiter	2
+Gary Nabel	2
+B. Yoder	2
+S. Campuzano	2
+R. L. Glaser	2
+Richard Kascsak	2
+Uwe Irion	2
+Stefano Schiaffino	2
+Hrb87F	2
+K. Siddle	2
+B. Sosa-Pineda	2
+G. Rimesso	2
+Karen Padgett	2
+Andrew Veillette	2
+M. Swanson	2
+Jaap Middeldorp	2
+Steven Brill	2
+Lea Hedman	2
+Ken Irvine	2
+David Bernlohr	2
+Masami Takahashi	2
+Hes1	2
+Dr Louis Reichardt	2
+Sandy Bernstein	2
+Robert L. Ochs	2
+R. Hevner	2
+G. C. Enders	2
+James K. Wahl	2
+Sudha Arya	2
+Michael Hensel	2
+Jo Rae Wright	2
+Paul Michels	2
+Sanja Sever	2
+Stefan Dimitrov	2
+Yohei Hirai	2
+Ian Mason	2
+G. McFadden	2
+N. L. Rivera-Rivera	2
+Jackson	2
+Magdalena Grzeszczuk	2
+Peter Quail	2
+Renato Paro	2
+Y. Hiromi	2
+Tony Pawson	2
+Mike Mueckler	2
+Jeffery D. Rothstein	2
+Ronnekleiv	2
+H. Soreq	2
+Martinsried	2
+Lee	2
+Michel Leroux	2
+E. Kominami	2
+Pietro De Camilli	2
+Helen Salz	2
+Christine Clayton	2
+Rick Jones	2
+Giacomo Cavalli	2
+John Lin	2
+J.M. Kelly	2
+Jena	2
+Kristi Neufeld	2
+Daum	2
+Ira Pastan	2
+Klaus Hansen	2
+Henriette Pilegaard	2
+Egon Ogris	2
+Luis A.	2
+Carl-Henrik Heldin	2
+Atsushi Kawakami	2
+Saclay	2
+Mark Vandoren	2
+R.	2
+Waterham	2
+C.M. Rice	2
+Paul Hauer	2
+Ruggero Pardi	2
+Randy Schekman	2
+D. Grahame	2
+Gail Fraser	2
+M. Wegner	2
+Piergiorgio Percipalle	2
+Hans Will	2
+Grace Boekhoff-Falk	2
+V. Prasad	2
+S. Kametaka	2
+Anja Fischer	2
+Marc-Jan Gubbels	2
+Dalla Venezia	2
+Terry Pearson	2
+Lai	2
+Jesper	2
+Thomas Jentsch	2
+F. Laski	2
+Technische	2
+R. S. Molday	2
+Konstanz	2
+Peter Bradley	2
+Mary D. Allen Laboratory	2
+Nils-G&#x000f6;ran Larsson	2
+L. Traub	2
+Christine Petit	2
+Deutsches Krebsforschungszentrum	2
+Vivian Budnik	2
+Thomas Scholzen	2
+Francois Schweisguth	2
+Stacey Goldberg	2
+Kirsten Benjamin	2
+Dr GL Scheffer	2
+James Nardi	2
+Richard Mains	2
+M. Robinson	2
+Masaya Fujita	2
+Gordon Peters	2
+Walczak	2
+Paul Patterson	2
+Matt LaVail	2
+Bill	2
+Joachim Herz	2
+M. Higuchi	2
+Naohito Nozaki	2
+Tg	2
+A.	2
+Sarah Bray	2
+T. Wolff	2
+Alfredo Nicosia	2
+Stefan Baumgartner	2
+Anthony C. Minson	2
+Yves Bourbonnais	2
+R. Chan	2
+Brenda Schilke	2
+Brian Oliver	2
+Dr Soldano Ferrone	2
+Hermann Aberle	2
+Kenneth M. Yamada	2
+R.D.	2
+R. Fridman	2
+Don Zhong	2
+Masaomi Ashida	2
+D. Burton	2
+Mary Dasso	2
+Vivian Lee	2
+Ralf Bartenschlager	2
+Judith Kimble	2
+Ernest Borden	2
+Philipp Scherer	2
+Sharon Reed	2
+Paul Fisher	2
+C. Richter	2
+Jonathan Howard	2
+R. Shigemoto	2
+James Hildreth	2
+Bill Theurkauf	2
+T. Seki	2
+Esther Stoeckli	2
+Thomas Neufeld	2
+Richard Huganir	2
+P. Lobel	2
+Zhang	2
+T. Higuchi	2
+Gerhard Dahl	2
+Douglas Black	2
+Bill Greenough	2
+Buck Hales	2
+Lester Binder	2
+Yuichi Ono	2
+Corinne Antignac	2
+Okazaki	2
+Martin Rowe	2
+Kai Ge	2
+Berthold	2
+Dr Viravan Prapapanich	2
+Rita Garbelli	2
+Dr Weidong Wang	2
+Kevin Campbell	2
+R. Benavente	2
+Don Gardiner	2
+Alain Vincent	2
+Daniel Finley	2
+James Fadool	2
+Dennis Peterson	2
+Karen Chave	2
+Jonathan T. Eggenschwiler	2
+Makoto Yoneda	2
+David Zarkower	2
+Dan Durocher	2
+Nathan Kline Institute	2
+Joseph Frankel	2
+Jim Kadonaga	2
+M.S. Campo	2
+Hugo J. Bellen	2
+Gary Hayward	2
+R. Tesh	2
+R. Vale	2
+Dr M Law	2
+Scott Peck	2
+Shin-Ichi Nishikawa	2
+Ulrike Mayer	2
+David Holden	2
+Geert Kops	2
+Bill Harris	2
+Angela Mousley	2
+Giulio Gabbiani	2
+David Williams	2
+M. Hoshino	2
+D. Marc	2
+Bruno Lemaitre	2
+Asifa Akhtar	2
+Wg	2
+Karin Schumacher	2
+Roel van Driel	2
+Alanis	2
+Johnson	2
+David Deitcher	2
+Dr G. Gerisch	2
+T. Hirano	2
+J. Fritschy	2
+Michael Redd	2
+Dan Kiehart	2
+Chris Marino	2
+Nef	2
+S. Hawke	2
+T. Sakaguchi	2
+Peter Lobel	2
+Lydia Sorokin	2
+E. Kremmer	2
+T. Uemura	2
+Leonard Evans	2
+Jim Marks	2
+M. catarrhalis	2
+Martina Stevens	2
+Adrian Krainer	2
+Lynn Cooley	2
+Nick Karabatsos	2
+E. Andrulis	2
+C. Haass	2
+Gillian Murphy	2
+Kathleen Whiteman	2
+John Mascola	2
+Stazione Zoologica	2
+Nancy Rice	2
+Olivier Staub	2
+Pietro Alano	2
+Marco Conti	2
+Simon Boulton	2
+Lee C.	2
+Alessandro Moretta	2
+M. Affolter	2
+C.V.	2
+Elaine Fuchs	2
+Susan Zolla-Pazner	2
+M. Rose	2
+Claudio Sunkel	2
+Helmut Kramer	2
+H. Richardson	2
+J. Gruenberg	2
+Dr V. Lee	2
+Guy Ben-Ary	2
+Richard Hynes	2
+H. Orii	2
+Linda	2
+Peter Moens	2
+Anne Villeneuve	2
+Arvind Patel	2
+L. David Sibley	2
+Stefano Stifani	2
+Kai Matuschewski	2
+S. Kondo	2
+Bryan Cullen	2
+Masahiko Watanabe	2
+Michael Rudnicki	2
+S. Boulton	2
+Hong-Tong Sevinc	2
+Roberta Gonnella	2
+Rueyling Lin	2
+I.M. Bonapace	2
+FlyBase	2
+F. Melchior	2
+Gordon Freeman	2
+W. Greene	2
+Silvia Penuela	2
+Jean Gruenberg	2
+MafB	2
+Christer	2
+Richard Hawkes	2
+Nung	2
+Walter Witke	2
+Patrick Meraldi	2
+Bing Yan	2
+Brian Howell	2
+Donna Boland	2
+Abbott Laboratories	2
+Claudia Franke	2
+T. Urano	2
+Barry Dickson	2
+Heermann	2
+Chai	2
+Michel Vincent	2
+Pavel Pasierbek	2
+Dr K. Kirkegaard	2
+Gisela Storz	2
+Mike German	2
+Monique Zetka	2
+Frances Van Dolah	2
+Bill Earnshaw	2
+Chris Doe	2
+Matthew Freeman	2
+H. Stocker	2
+Rehovot	2
+Akira Nagatani	2
+Tetsu Akiyama	2
+Paul Merrill	2
+D.J. Gubler	2
+J&#x000f6;rg Vogel	2
+L1a	2
+David Steinhauer	2
+Meng	2
+immunohistochemical	2
+Susan Reynolds	2
+Craig Pikaard	2
+Tadamitsu Kishimoto	2
+Steve Bell	2
+Dr M. Fukuda	2
+Lefkowitz	2
+Yoshinobu Nakanishi	2
+P.C.	2
+M. Takahashi	2
+Neurobiology	2
+Tetsuro Ikegami	2
+Villejuif	2
+R. L&#x000fc;hrmann	2
+A. Bergmann	2
+Lena Alexopoulou	2
+M. Klymkowsky	2
+Anne Brunet	2
+Kunihiro	2
+James Robinson	2
+M. Mueckler	2
+Pierre Colas	2
+James D. Bangs	2
+A. Patel	2
+T. H&#x000fc;nig	2
+Dr Tetsuo Sudo	2
+Monoclonal	2
+Abby Dernburg	2
+Helmholtz Zentrum	2
+Mary Lilly	2
+Robert Beecroft	2
+Aristidis Moustakas	2
+Ralph Steinman	2
+Vincenzo Sorrentino	2
+Fumiyuki Goto	2
+Claire Debrat	2
+Robert Schreiber	2
+J. Johnson	2
+E. Buchner	2
+Matthias Mack	2
+Buddy Ullman	2
+Susan Wray	2
+Yan Li	2
+Dr W.D Zollinger	2
+Harald Vaessin	2
+Hemmo Meyer	2
+Gary Cohen	2
+Toshihiro Omura	2
+G.K.	2
+Erk	2
+M. Watanabe	2
+Karl Tryggvason	2
+K. Jagla	2
+Erlangen	2
+Dr Megumi Morimoto-Tomita	2
+W. McGinnis	2
+N. Landau	2
+Grants-in-Aid	2
+Takahisa Furukawa	2
+Shire	2
+Jose Carlos Pastor-Pareja	2
+Roy Hall	2
+Katrien Fransen	2
+H. Riezman	2
+Caroline Formstone	2
+Shoji Tajima	2
+Michael O&#x02019;Connor	2
+Fred van Leeuwen	2
+Dr Bennett Novitch	2
+Dr Jean Gr&#x000fc;nberg	2
+Inserm	2
+Jacky Trotter	2
+Gosselies	2
+Msh	2
+Dr L. Fisher	2
+Hayashi	2
+Peter Gunning	2
+Stephanie J. Inder	2
+S. G. Filler	2
+Carole Bartlett	2
+Yoshinori Watanabe	2
+Dr E. Androphy	2
+Neil Audsley	2
+Anne Mason	2
+Shigekazu Nagata	2
+M. Zwick	2
+Steven Qiu	2
+Shigehisa Hirose	2
+A. Gartner	2
+David Allis	2
+Ezio Bonifacio	2
+Cai	2
+Jack Saari	2
+immunohistochemistry	2
+Steve Walkley	2
+Stuart H. Yuspa	2
+Marie-Helen	2
+E. Peles	2
+Henrik Martens	2
+J. Neefjes	2
+Harald Saumweber	2
+Carl Lagenaur	2
+B. V. Schardin	2
+M. Kim	2
+David Schatz	2
+R.S. Mann	2
+Dr M. Umeda	2
+C. Heyting	2
+Robert Hevner	2
+Dr P. Westermark	2
+Jin Jiang	2
+Andre Goffinet	2
+Alan Cochrane	2
+Mary Ann Handel	2
+J&#x000fc;rgen Heesemann	2
+G. Ward	2
+C.V. Wright	2
+Hilary McLauchlan	2
