@@ -1,0 +1,506 @@
+<acknowledgements>
+	<acknowledgement PMCID="PMC3387021">
+		<content>
+			We thank the Light Microscopy Center (LMC) at ETH Zurich for providing excellent imaging facilities and technical support and Ellen Ragan for proofreading. We would also like to thank Dr. Kenneth Yamada at NIH/NIDCR, Bethesda, MD for his kind gift of the mAb13 antibody.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Organization">Light Microscopy Center</annotation>
+				<annotation label="Organization">ETH Zurich</annotation>
+				<annotation label="Person">Ellen Ragan</annotation>
+				<annotation label="Person/Donor">Kenneth Yamada</annotation>
+				<annotation label="Organization/Affiliation">NIH/NIDCR</annotation>
+				<annotation label="Antibody Name">mAb13</annotation>
+				<annotation label="Antibody">antibody</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Organization">Light Microscopy Center</annotation>
+				<annotation label="Organization">ETH Zurich</annotation>
+				<annotation label="Person">Ellen Ragan</annotation>
+				<annotation label="Person/Donor">Kenneth Yamada</annotation>
+				<annotation label="Organization/Affiliation">NIH/NIDCR</annotation>
+				<annotation label="Antibody Name">mAb13</annotation>
+				<annotation label="Antibody">antibody</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3182244">
+		<content>
+			We are grateful to Kathy Borkovich and Gloria Turner for antibodies to N. crassa arginase.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Kathy Borkovich</annotation>
+				<annotation label="Person/Donor">Gloria Turner</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">N. crassa arginase</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Person/Donor">Kathy Borkovich</annotation>
+				<annotation label="Person/Donor">Gloria Turner</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">N. crassa arginase</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC2740871">
+		<content>
+			We thank Sue Wormsley and PharMingen (now, BD Biosciences) for the generous gift of baculovirus-infected cells containing recombinant cyclin B1; Mike Sramkoski for assistance with the cytometer; Vince Shankey for cyclin A2 antibody, and Tom Radivoyevitch for helpful suggestions and mathematical advice.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Sue Wormsley</annotation>
+				<annotation label="Person/Donor">PharMingen</annotation>
+				<annotation label="Cell Name">baculovirus-infected</annotation>
+				<annotation label="Cell">cells</annotation>
+				<annotation label="Person">Mike Sramkoski</annotation>
+				<annotation label="Person/Donor">Vince Shankey</annotation>
+				<annotation label="Antibody Name">cyclin A2</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Person">Tom Radivoyevitch</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3294513">
+		<content>
+			We thank Yue Ma and Jingyun Li for excellent technical assistance and Dorothy Xing for providing monoclonal antibodies against Fim2 (NIBSC 04/154) and Fim3 (NIBSC 04/156). This work was supported by the National Science & Technology Pillar Program from the Ministry of Science and Technology, China (no. 2008BAI54B03) and in part by the Academy of Finland.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person">Yue Ma</annotation>
+				<annotation label="Person">Jingyun Li</annotation>
+				<annotation label="Person/Donor">Dorothy Xing</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">Fim2</annotation>
+				<annotation label="Antibody Name">Fim3</annotation>
+				<annotation label="Organization">National Science & Technology Pillar Program from the Ministry of Science and Technology</annotation>
+				<annotation label="Organization">Academy of Finland</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Person">Yue Ma</annotation>
+				<annotation label="Person">Jingyun Li</annotation>
+				<annotation label="Person/Donor">Dorothy Xing</annotation>
+				<annotation label="Attribute">monoclonal</annotation>
+				<annotation label="Cell">antibodies</annotation>
+				<annotation label="Person">Fim2 (NIBSC 04/154)</annotation>
+				<annotation label="Person/Donor">Fim3 (NIBSC 04/156)</annotation>
+				<annotation label="Antibody Name">National Science & Technology Pillar Program from the Ministry of Science and Technology</annotation>
+				<annotation label="Antibody">Academy of Finland</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3294513">
+		<content>
+			This work was supported by NIH R01 NS 077774 and P30 HD 06979. We are also grateful to Drs. Thomas Smith, Charlie Stanley, and Marc Yudkoff for their helpful comments and advice throughout this study. We would like to thank Elizabeth Krizman for her help teaching Brendan S. Whitelaw the transport assays and her help with the analyses of the subcellular fractionation. We would like to thank Dr. Virginia Lee and Dr. Jeffery D. Rothstein for their generous provision of the anti-GFAP antibody and the anti-GLT-1 antibody, respectively.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person">Thomas Smith</annotation>
+				<annotation label="Person">Charlie Stanley</annotation>
+				<annotation label="Person">Marc Yudkoff</annotation>
+				<annotation label="Person">Elizabeth Krizman</annotation>
+				<annotation label="Person">Brendan S. Whitelaw</annotation>
+				<annotation label="Person/Donor">Virginia Lee</annotation>
+				<annotation label="Person/Donor">Jeffery D. Rothstein</annotation>
+				<annotation label="Antibody Name">anti-GFAP</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Antibody Name">anti-GLT1</annotation>
+				<annotation label="Antibody">antibody</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Organization">NIH</annotation>
+				<annotation label="Person">Thomas Smith</annotation>
+				<annotation label="Person">Charlie Stanley</annotation>
+				<annotation label="Person">Marc Yudkoff</annotation>
+				<annotation label="Person">Elizabeth Krizman</annotation>
+				<annotation label="Person">Brendan S. Whitelaw</annotation>
+				<annotation label="Person/Donor">Virginia Lee</annotation>
+				<annotation label="Person/Donor">Jeffery D. Rothstein</annotation>
+				<annotation label="Antibody Name">anti-GFAP</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Antibody Name">anti-GLT1</annotation>
+				<annotation label="Antibody">antibody</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC2741029">
+		<content>
+			We acknowledge our grant sponsors Association pour la Recherche sur le Cancer (ARC) and Ligue Nationale contre le Cancer (Comité de l'Isère). SZ received a grant from UNESCO and ARC. We express our thanks to Dr James A Raleigh for kindly supplying pimonidazole-antibody and to Dr Jonathan Coles for his judicious comments.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Organization">Association pour la Recherche sur le Cancer</annotation>
+				<annotation label="Organization">Ligue Nationale contre le Cancer (Comité de l'Isère)</annotation>
+				<annotation label="Person/Donor">James A Raleigh</annotation>
+				<annotation label="Antibody Name">pimonidazole</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Person">Jonathan Coles</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3685806">
+		<content>
+			L.A. and C.L. were supported by grants from the Austrian Science Fund (FWF P18840, P19585, and P21533) and the Vienna Science and Technology Fund (WWTF LS0535). We are grateful for gifts of antibodies from Masayoshi Maeshima (anti-PIP2;1 and anti-γTIP1;1), Jürgen Denecke (anti-BiP), David G. Robinson (anti-SEC12), Lukas Mach (anti-MannII), Jiří Friml (anti-PIN1), and Shuh-ichi Nishikawa (anti-ERdj3A and anti-ERdj3B). Mutant Arabidopsis thaliana lines were kindly provided by Richard Strasser (hgl1-1), Shuh-ichi Nishikawa (erdj3a-1 and erdj3b-1), and Amir Sherman (pin1). L.A. thanks Lukas Mach for sharing reagents and advice and for critical reading of the manuscript. We also thank the anonymous reviewers for their insightful and helpful comments.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Person/Donor">Masayoshi Maeshima</annotation>
+				<annotation label="Antibody Name">anti-PIP2;1</annotation>
+				<annotation label="Antibody Name">anti-γTIP1;1</annotation>
+				<annotation label="Person/Donor">Jürgen Denecke</annotation>
+				<annotation label="Antibody Name">anti-BiP</annotation>
+				<annotation label="Person/Donor">David G. Robinson</annotation>
+				<annotation label="Antibody Name">anti-SEC12</annotation>
+				<annotation label="Person/Donor">Lukas Mach</annotation>
+				<annotation label="Antibody Name">anti-MannII</annotation>
+				<annotation label="Person/Donor">Jiří Friml</annotation>
+				<annotation label="Antibody Name">anti-PIN1</annotation>
+				<annotation label="Person/Donor">Shuh-ichi Nishikawa</annotation>
+				<annotation label="Antibody Name">anti-ERdj3A</annotation>
+				<annotation label="Antibody Name">anti-ERdj3B</annotation>
+				<annotation label="Person/Donor">Arabidopsis thaliana</annotation>
+				<annotation label="Lines">lines</annotation>
+				<annotation label="Person/Donor">Richard Strasser</annotation>
+				<annotation label="Line Name">hgl1-1</annotation>
+				<annotation label="Person/Donor">Shuh-ichi Nishikawa</annotation>
+				<annotation label="Line Name">erdj3a-1</annotation>
+				<annotation label="Line Name">erdj3b-1</annotation>
+				<annotation label="Person/Donor">Amir Sherman</annotation>
+				<annotation label="Line Name">pin1</annotation>
+				<annotation label="Person">Lukas Mach</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Person">L.A.</annotation>
+				<annotation label="Person">C.L.</annotation>
+				<annotation label="Organization">Austrian Science Fund</annotation>
+				<annotation label="Organization">Vienna Science and Technology</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Person/Donor">Masayoshi Maeshima</annotation>
+				<annotation label="Antibody Name">anti-PIP2;1</annotation>
+				<annotation label="Antibody Name">anti-γTIP1;1</annotation>
+				<annotation label="Person/Donor">Jürgen Denecke</annotation>
+				<annotation label="Antibody Name">anti-BiP</annotation>
+				<annotation label="Person/Donor">David G. Robinson</annotation>
+				<annotation label="Antibody Name">anti-SEC12</annotation>
+				<annotation label="Person/Donor">Lukas Mach</annotation>
+				<annotation label="Antibody Name">anti-MannII</annotation>
+				<annotation label="Person/Donor">Jiří Friml</annotation>
+				<annotation label="Antibody Name">anti-PIN1</annotation>
+				<annotation label="Person/Donor">Shuh-ichi Nishikawa</annotation>
+				<annotation label="Antibody Name">anti-ERdj3A</annotation>
+				<annotation label="Antibody Name">anti-ERdj3B</annotation>
+				<annotation label="Person/Donor">Arabidopsis thaliana</annotation>
+				<annotation label="Lines">Mutant Arabidopsis thaliana lines</annotation>
+				<annotation label="Person/Donor">Richard Strasser</annotation>
+				<annotation label="Line Name">hgl1-1</annotation>
+				<annotation label="Person/Donor">Shuh-ichi Nishikawa</annotation>
+				<annotation label="Line Name">erdj3a-1</annotation>
+				<annotation label="Line Name">erdj3b-1</annotation>
+				<annotation label="Person/Donor">Amir Sherman</annotation>
+				<annotation label="Line Name">pin1</annotation>
+				<annotation label="Person">Lukas Mach</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3093373">
+		<content>
+			We appreciate the invaluable contributions of the nephrology community who provide information to, and maintain, the ANZDATA and Stoke-on-Trent databases; this includes physicians, surgeons, nurses, renal technicians, database managers, and most importantly, the patients. We are especially grateful to all patients and healthy volunteers in Cardiff for participating in the immunological study, and the staff on the B5 ward for their cooperation. We also thank Hassan Jomaa for providing synthetic HMB-PP and HMB-PCP; Ruggero Pardi for anti-CD11a blocking antibodies; Ann Kift-Morgan for technical assistance; and Eric Champagne, Massimo Massaia, Eric Oldfield, Chiara Riganti and Tim Walsh for the stimulating discussion.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Organization">Cardiff</annotation>
+				<annotation label="Database">ANZDATA</annotation>
+				<annotation label="Database">Stoke-on-Trent</annotation>
+				<annotation label="Person/Donor">Hassan Jomaa</annotation>
+				<annotation label="Enzyme Name">synthetic HMB-PP</annotation>
+				<annotation label="Enzyme Name">HMB-PCP</annotation>
+				<annotation label="Person/Donor">Ruggero Pardi</annotation>
+				<annotation label="Antibody Name">anti-CD11a</annotation>
+				<annotation label="Attribute">blocking</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Person">Ann Kift-Morgan</annotation>
+				<annotation label="Person">Eric Champagne</annotation>
+				<annotation label="Person">Massimo Massaia</annotation>
+				<annotation label="Person">Eric Oldfield</annotation>
+				<annotation label="Person">Chiara Riganti</annotation>
+				<annotation label="Person">Tim Walsh</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Organization">nephrology community</annotation>
+
+				<annotation label="Person/Donor">Hassan Jomaa</annotation>
+				<annotation label="Enzyme Name">HMB-PP</annotation>
+				<annotation label="Enzyme Name">HMB-PCP</annotation>
+				<annotation label="Person/Donor">Ruggero Pardi</annotation>
+				<annotation label="Antibody Name">anti-CD11a</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Person">Ann Kift-Morgan</annotation>
+				<annotation label="Person">Eric Champagne</annotation>
+				<annotation label="Person">Massimo Massaia</annotation>
+				<annotation label="Person">Eric Oldfield</annotation>
+				<annotation label="Person">Chiara Riganti</annotation>
+				<annotation label="Person">Tim Walsh</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3332353">
+		<content>
+			We thank Gerhard Adam for yeast strains and vector pADHfw, Lukas Mach for providing the anti-HA antibody and Karin Polacsek (all BOKU-Vienna) for N-glycan analysis. We thank Dieter H. Wolf (University of Stuttgart, Stuttgart, Germany) for the kind gift of CPY* expression vector pRS306-prc1-1, Frans E. Tax (University of Arizona, Tucson, AZ) for the kind gift of bri1-9 seeds, Cyril Zipfel (The Sainsbury Laboratories, Norwich, UK) for efr-1 seeds and elf18 peptide and Ikuko Hara-Nishimura (Department of Botany, Graduate School of Science, Kyoto University, Kyoto, Japan) for the kind gift of anti-TGG1 antibodies. This work was supported by a grant from Austrian Science Fund (FWF): P20817-B12.Open AccessThis article is distributed under the terms of the Creative Commons Attribution License which permits any use, distribution, and reproduction in any medium, provided the original author(s) and the source are credited.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Antibody">Gerhard Adam</annotation>
+				<annotation label="Yeast Strains">yeast strains</annotation>
+				<annotation label="Vector"vector</annotation>
+				<annotation label="Vector Name">pADHfw</annotation>
+				<annotation label="Person/Donor">Lukas Mach</annotation>
+				<annotation label="Antibody Name">anti-HA</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Person/Donor">Karin Polacsek</annotation>
+				<annotation label="Organization/Affiliation">BOKU-Vienna</annotation>
+				<annotation label="Person/Donor">Dieter H. Wolf</annotation>
+				<annotation label="Organization/Affiliation">University of Stuttgart, Stuttgart, Germany</annotation>
+				<annotation label="Vector">CPY* expression vector</annotation>
+				<annotation label="Vector Name">pRS306-prc1-1</annotation>
+				<annotation label="Person/Donor">Frans E. Tax </annotation>
+				<annotation label="Organization/Affiliation">University of Arizona, Tucson, AZ</annotation>
+				<annotation label="Seed Name">bri1-9</annotation>
+				<annotation label="Seeds">seeds</annotation>
+				<annotation label="Person/Donor">Cyril Zipfel</annotation>
+				<annotation label="Organization/Affiliation">The Sainsbury Laboratories, Norwich, UK</annotation>
+				<annotation label="Seed Name">efr-1</annotation>
+				<annotation label="Seeds">seeds</annotation>
+				<annotation label="Peptide Name">elf18</annotation>
+				<annotation label="Peptide">peptide</annotation>
+				<annotation label="Person/Donor">Ikuko Hara-Nishimura</annotation>
+				<annotation label="Organization/Affiliation">Department of Botany, Graduate School of Science, Kyoto University, Kyoto, Japan</annotation>
+				<annotation label="Antibody Name">anti-TGG1</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3694009">
+		<content>
+			The authors acknowledge Rahul Warrior, Louise Parker and Jennifer Butler for critical reading of the manuscript. The Bloomington Drosophila Stock Center (Indiana University) and the Harvard Stock Center (Harvard University) provided Drosophila strains. We thank Pernille Rorth (IMCB, Singapore) for the tubulin-staiB2 and stainull lines and the pCaSpeR-tub vector, Lynne Cassimeris (Lehigh University, Bethlehem, PA) for the human STMN1 clone, Bill Saxton (UC Santa Cruz) for the Khc20 strain, Angels Almenar-Queralt and Alison Fisher for assistance with qRT-PCR and data analysis, and Coreina Teunissen for technical assistance with immunostaining. The monoclonal antibodies 22c10 and DCSP-2 6D6 developed by the Benzer lab were obtained from the Developmental Studies Hybridoma Bank developed under the auspices of the NICHD and maintained by the University of Iowa, Department of Biology, Iowa City, IA 52242.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person">Rahul Warrior</annotation>
+				<annotation label="Person">Louise Parker</annotation>
+				<annotation label="Person">Jennifer Butler</annotation>
+				<annotation label="Organization/Donor">Bloomington Drosophila Stock Center</annotation>
+				<annotation label="Organization/Donor">Indiana University</annotation>
+				<annotation label="Organization/Donor">Harvard Stock Center</annotation>
+				<annotation label="Organization/Donor">Harvard University</annotation>
+				<annotation label="Strain Name">Drosophila</annotation>
+				<annotation label="Strain">strains</annotation>
+				<annotation label="Person/Donor">Pernille Rorth</annotation>
+				<annotation label="Organization/Affiliation">IMCB, Singapore</annotation>
+				<annotation label="Line Name">tubulin-staiB2</annotation>
+				<annotation label="Line Name">stainull</annotation>
+				<annotation label="Line">lines</annotation>
+				<annotation label="Vector Name">pCaSpeR-tub</annotation>
+				<annotation label="Vector">vector</annotation>
+				<annotation label="Person/Donor">Lynne Cassimeris</annotation>
+				<annotation label="Organization/Affiliation">Lehigh University, Bethlehem, PA</annotation>
+				<annotation label="Clone Name">STMN1</annotation>
+				<annotation label="Clone">clone</annotation>
+				<annotation label="Person/Donor">Bill Saxton</annotation>
+				<annotation label="Line Name">UC Santa Cruz</annotation>
+				<annotation label="Strain Name">Khc20</annotation>
+				<annotation label="Person">strain</annotation>
+				<annotation label="Person">Angels Almenar-Queralt</annotation>
+				<annotation label="Person">Alison Fisher</annotation>
+				<annotation label="Person">Coreina Teunissen</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">22c10</annotation>
+				<annotation label="Antibody Name">DCSP-2 6D6</annotation>
+				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank </annotation>
+				<annotation label="Organization">University of Iowa, Department of Biology, Iowa City, IA</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3542070">
+		<content>
+			We thank Susumu Hirabayashi and Jill Fink for helpful discussions. We also thank the Bloomington Drosophila Stock Center and the Vienna Drosophila RNAi Center for providing stocks. The monoclonal antibody against Pericardin developed by Danielle Gratecos and monoclonal antibody against Actin developed by Jim Jung-Ching Lin were obtained from the Developmental Studies Hybridoma Bank developed under the auspices of the NICHD and maintained by The University of Iowa, Department of Biology, Iowa City, Iowa.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person">Susumu Hirabayashi</annotation>
+				<annotation label="Person">Jill Fink</annotation>
+				<annotation label="Organization/Donor">Bloomington Drosophila Stock Center</annotation>
+				<annotation label="Organization/Donor">Vienna Drosophila RNAi Center</annotation>
+				<annotation label="Stocks">stocks</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Antibody Name">Pericardin</annotation>
+				<annotation label="Person">Danielle Gratecos</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Antibody Name">Actin</annotation>
+				<annotation label="Person">Jim Jung-Ching Lin</annotation>
+				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank</annotation>
+				<annotation label="Organization">The University of Iowa, Department of Biology, Iowa City, Iowa</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC2246163">
+		<content>
+			We thank Stefanie Bauer, Carina Kruip, and Barbara Yutzy for expert technical assistance, Roland Plesker and his team for providing monkey blood, Oreste Acuto for reading the manuscript, and Thomas Hanke for the generous gift of the antibody TGN1412 and helpful discussion.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person">Stefanie Bauer</annotation>
+				<annotation label="Person">Carina Kruip</annotation>
+				<annotation label="Person">Barbara Yutzy</annotation>
+				<annotation label="Person/Donor">Roland Plesker</annotation>
+				<annotation label="Blood">monkey blood</annotation>
+				<annotation label="Person">Oreste Acuto</annotation>
+				<annotation label="Person/Donor">Thomas Hanke</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Antibody Name">TGN1412</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+		<acknowledgement PMCID="PMC4094514">
+		<content>
+			The authors would like to thank Drs. Caroline Damsky and David Strom for antibodies obtained via the Developmental Studies Hybridoma Bank under the auspices of the NICHD and maintained by The University of Iowa (Iowa City, IA). The spinning disc device was designed and manufactured by Jeremy Riley, Ryan Tam, Joe Shu, and the UCSD Campus Research Machine Shop.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Caroline Damsky</annotation>
+				<annotation label="Person/Donor">David Strom</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank</annotation>
+				<annotation label="Organization">The University of Iowa (Iowa City, IA)</annotation>
+				<annotation label="Person">Jeremy Riley</annotation>
+				<annotation label="Person">Ryan Tam</annotation>
+				<annotation label="Person">Joe Shu</annotation>
+				<annotation label="Organization">UCSD Campus Research Machine Shop</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3840018">
+		<content>
+			We thank Carsten Janke for purified microtubules, David J. Chen for DNA-PK (P-S2016) antibodies, Bérangère Lombard of the Institut Curie mass spectrometry and proteomics platform and Fabrice Cordelières and Pauline Chabosseau from the imaging platform.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Carsten Janke</annotation>
+				<annotation label="Microtubules">microtubules</annotation>
+				<annotation label="Antibody">David J. Chen</annotation>
+				<annotation label="Antibody Name">DNA-PK (P-S2016)</annotation>
+				<annotation label="Organization">antibodies</annotation>
+				<annotation label="Person">Bérangère Lombard</annotation>
+				<annotation label="Organization">Institut Curie mass spectrometry and proteomics platform</annotation>
+				<annotation label="Person">Fabrice Cordelières</annotation>
+				<annotation label="Person">Pauline Chabosseau</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3335071">
+		<content>
+			We are grateful to Tom Jessell and Jane Dodd for providing the Gdf7Cre/+ mice, and to Jane Johnson and Trish Savage for providing the Math1GFP/GFP mice. We are also grateful to Michael German for providing the rabbit anti-Lmx1a antibody. We thank Ty Abel for expert review of medulloblastoma pathology. We acknowledge Sean Schaffer at the Vanderbilt University Cell Imaging Shared Resource for use of the confocal microscope.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Tom Jessell</annotation>
+				<annotation label="Person/Donor">Jane Dodd</annotation>
+				<annotation label="Mouse Line Name">Gdf7Cre/+</annotation>
+				<annotation label="Mouse Line">mice</annotation>
+				<annotation label="Person/Donor">Jane Johnson</annotation>
+				<annotation label="Person/Donor">Trish Savage</annotation>
+				<annotation label="Mouse Line Name">Math1GFP/GFP</annotation>
+				<annotation label="Mouse Line">mice</annotation>
+				<annotation label="Antibody Name">rabbit anti-Lmx1a</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Person">Ty Abel</annotation>
+				<annotation label="Organization">Sean Schaffer</annotation>
+				<annotation label="Organization/Affiliation">Vanderbilt University Cell Imaging Shared Resource</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC1291361">
+		<content>
+			The antibodies against human CYP2E1 and CYP3A4 were kindly provided by Dr. M. Ingelman-Sundberg. This work was supported by a grant from the Deutsche Krebshilfe (70-1881-B01) to AP and CB. The authors would like to thank Dr. G.E. Arteel for proofreading the manuscript.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">CYP2E1</annotation>
+				<annotation label="Antibody Name">CYP3A4</annotation>
+				<annotation label="Person/Donor">Dr. M. Ingelman-Sundberg</annotation>
+				<annotation label="Organization">Deutsche Krebshilfe</annotation>
+				<annotation label="Person">Dr. G.E. Arteel</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3566803">
+		<content>
+			This work was supported in part by grants-in-aid for Scientific Research 23590929 from the Ministry of Education, Culture, Sports, Science and Technology, Japan. We are grateful to Dr Hiroshi Okamoto from Tohoku University Graduate School of Medicine, Sendai, Japan, for providing the anti-REG Iα antibody.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Organization">Ministry of Education, Culture, Sports, Science and Technology, Japan</annotation>
+				<annotation label="Person/Donor">Hiroshi Okamoto</annotation>
+				<annotation label="Organization/Affiliation">Tohoku University Graduate School of Medicine, Sendai, Japan</annotation>
+				<annotation label="Antibody Name">anti-REG Iα</annotation>
+				<annotation label="Antibody">antibody</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3530568">
+		<content>
+			We thank the NIH AIDS Reagents and Reference Program for providing H9 cells, anti-p24 antibody, and pHIVNL4-3 construct. Gratitude goes to Hongjian Li, Tianhong Zhou, and Paul Rider for technical assistance and excellent suggestions.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Cell Name">H9</annotation>
+				<annotation label="Cells">cells</annotation>
+				<annotation label="Antibody Name">anti-p24</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Construct Name">pHIVNL4-3</annotation>
+				<annotation label="Construct">Construct</annotation>
+				<annotation label="Person">Hongjian Li</annotation>
+				<annotation label="Person">Tianhong Zhou</annotation>
+				<annotation label="Person">Paul Rider</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3723530">
+		<content>
+			Ataxin-1 monoclonal antibodies were obtained from the UC/Davis/NINDS/NIMH NeuroMab Facility. We thank Martina Callaghan for assistance with MATLAB and statistical analyses, and Rosella Abeti, Patrick Lewis and John Hardy for critical reading of this manuscript.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Antibody Name">Ataxin-1</annotation>
+				<annotation label="Antibody Attribute">monoclonal</annotation>
+				<annotation label="Antibody Name">antibodies</annotation>
+				<annotation label="Antibody">UC/Davis</annotation>
+				<annotation label="Construct Name">NINDS</annotation>
+				<annotation label="Construct">NIMH</annotation>
+				<annotation label="Person">NeuroMab Facility</annotation>
+				<annotation label="Person">Martina Callaghan</annotation>
+				<annotation label="Person">Rosella Abeti</annotation>
+				<annotation label="Person">Patrick Lewis</annotation>
+				<annotation label="Person">John Hardy</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3004795">
+		<content>
+			The authors are grateful to G. Hime for providing Drosophila stocks and P. Gleeson for providing antibodies used in this work.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">G. Hime</annotation>
+				<annotation label="Drosophila Stocks">Drosophila stocks</annotation>
+				<annotation label="Person/Donor">P. Gleeson</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+
+	
+
+
