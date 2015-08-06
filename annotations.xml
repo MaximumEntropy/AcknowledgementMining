@@ -22,6 +22,15 @@
 				<annotation label="Antibody Name">mAb13</annotation>
 				<annotation label="Antibody">antibody</annotation>
 			</annotationset>
+			<annotationset>
+				<annotation label="Organization/Donor">Light Microscopy Center</annotation>
+				<annotation label="Organization">ETH Zurich</annotation>
+				<annotation label="Person">Ellen Ragan</annotation>
+				<annotation label="Person/Donor">Kenneth Yamada</annotation>
+				<annotation label="Organization/Affiliation">NIH/NIDCR</annotation>
+				<annotation label="Antibody Name">mAb13</annotation>
+				<annotation label="Antibody">antibody</annotation>
+			</annotationset>
 		</annotations>
 	</acknowledgement>
 	<acknowledgement PMCID="PMC3182244">
@@ -81,11 +90,21 @@
 				<annotation label="Person">Jingyun Li</annotation>
 				<annotation label="Person/Donor">Dorothy Xing</annotation>
 				<annotation label="Attribute">monoclonal</annotation>
-				<annotation label="Cell">antibodies</annotation>
-				<annotation label="Person">Fim2 (NIBSC 04/154)</annotation>
-				<annotation label="Person/Donor">Fim3 (NIBSC 04/156)</annotation>
-				<annotation label="Antibody Name">National Science & Technology Pillar Program from the Ministry of Science and Technology</annotation>
-				<annotation label="Antibody">Academy of Finland</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">Fim2 (NIBSC 04/154)</annotation>
+				<annotation label="Antibody Name">Fim3 (NIBSC 04/156)</annotation>
+				<annotation label="Organization">National Science & Technology Pillar Program from the Ministry of Science and Technology</annotation>
+				<annotation label="Organization">Academy of Finland</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Person">Yue Ma</annotation>
+				<annotation label="Person">Jingyun Li</annotation>
+				<annotation label="Person/Donor">Dorothy Xing</annotation>
+				<annotation label="Antibody">monoclonal antibodies</annotation>
+				<annotation label="Antibody Name">NIBSC 04/154</annotation>
+				<annotation label="Antibody Name">NIBSC 04/156</annotation>
+				<annotation label="Organization">National Science & Technology Pillar Program from the Ministry of Science and Technology</annotation>
+				<annotation label="Organization">Academy of Finland</annotation>
 			</annotationset>
 		</annotations>
 	</acknowledgement>
@@ -190,7 +209,7 @@
 				<annotation label="Person/Donor">Shuh-ichi Nishikawa</annotation>
 				<annotation label="Antibody Name">anti-ERdj3A</annotation>
 				<annotation label="Antibody Name">anti-ERdj3B</annotation>
-				<annotation label="Person/Donor">Arabidopsis thaliana</annotation>
+				<annotation label="Line Name">Arabidopsis thaliana</annotation>
 				<annotation label="Lines">Mutant Arabidopsis thaliana lines</annotation>
 				<annotation label="Person/Donor">Richard Strasser</annotation>
 				<annotation label="Line Name">hgl1-1</annotation>
@@ -199,6 +218,36 @@
 				<annotation label="Line Name">erdj3b-1</annotation>
 				<annotation label="Person/Donor">Amir Sherman</annotation>
 				<annotation label="Line Name">pin1</annotation>
+				<annotation label="Person">Lukas Mach</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Person">L.A.</annotation>
+				<annotation label="Person">C.L.</annotation>
+				<annotation label="Organization">Austrian Science Fund</annotation>
+				<annotation label="Organization">Vienna Science and Technology</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Person/Donor">Masayoshi Maeshima</annotation>
+				<annotation label="Antibody Name">anti-PIP2;1</annotation>
+				<annotation label="Antibody Name">anti-γTIP1;1</annotation>
+				<annotation label="Person/Donor">Jürgen Denecke</annotation>
+				<annotation label="Antibody Name">anti-BiP</annotation>
+				<annotation label="Person/Donor">David G. Robinson</annotation>
+				<annotation label="Antibody Name">anti-SEC12</annotation>
+				<annotation label="Person/Donor">Lukas Mach</annotation>
+				<annotation label="Antibody Name">anti-MannII</annotation>
+				<annotation label="Person/Donor">Jiří Friml</annotation>
+				<annotation label="Antibody Name">anti-PIN1</annotation>
+				<annotation label="Person/Donor">Shuh-ichi Nishikawa</annotation>
+				<annotation label="Antibody Name">anti-ERdj3A</annotation>
+				<annotation label="Antibody Name">anti-ERdj3B</annotation>
+				<annotation label="Species">Mutant Arabidopsis</annotation>
+				<annotation label="Person/Donor">Richard Strasser</annotation>
+				<annotation label="Line Name">hgl1-1</annotation>
+				<annotation label="Person/Donor">Shuh-ichi Nishikawa</annotation>
+				<annotation label="Line Name">erdj3a-1</annotation>
+				<annotation label="Line Name">erdj3b-1</annotation>
+				<annotation label="Person/Donor">Amir Sherman</annotation>
+				<annotation label="Person">L.A.</annotation>
 				<annotation label="Person">Lukas Mach</annotation>
 			</annotationset>
 		</annotations>
@@ -210,14 +259,11 @@
 		<annotations>
 			<annotationset>
 				<annotation label="Organization">Cardiff</annotation>
-				<annotation label="Database">ANZDATA</annotation>
-				<annotation label="Database">Stoke-on-Trent</annotation>
 				<annotation label="Person/Donor">Hassan Jomaa</annotation>
-				<annotation label="Enzyme Name">synthetic HMB-PP</annotation>
+				<annotation label="Enzyme Name">HMB-PP</annotation>
 				<annotation label="Enzyme Name">HMB-PCP</annotation>
 				<annotation label="Person/Donor">Ruggero Pardi</annotation>
 				<annotation label="Antibody Name">anti-CD11a</annotation>
-				<annotation label="Attribute">blocking</annotation>
 				<annotation label="Antibody">antibodies</annotation>
 				<annotation label="Person">Ann Kift-Morgan</annotation>
 				<annotation label="Person">Eric Champagne</annotation>
@@ -228,12 +274,14 @@
 			</annotationset>
 			<annotationset>
 				<annotation label="Organization">nephrology community</annotation>
-
+				<annotation label="Database">ANZDATA</annotation>
+				<annotation label="Database">Stoke-on-Trent</annotation>
 				<annotation label="Person/Donor">Hassan Jomaa</annotation>
-				<annotation label="Enzyme Name">HMB-PP</annotation>
+				<annotation label="Enzyme Name">synthetic HMB-PP</annotation>
 				<annotation label="Enzyme Name">HMB-PCP</annotation>
 				<annotation label="Person/Donor">Ruggero Pardi</annotation>
 				<annotation label="Antibody Name">anti-CD11a</annotation>
+				<annotation label="Attribute">blocking</annotation>
 				<annotation label="Antibody">antibodies</annotation>
 				<annotation label="Person">Ann Kift-Morgan</annotation>
 				<annotation label="Person">Eric Champagne</annotation>
@@ -319,6 +367,42 @@
 				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank </annotation>
 				<annotation label="Organization">University of Iowa, Department of Biology, Iowa City, IA</annotation>
 			</annotationset>
+			<annotationset>
+				<annotation label="Person">Rahul Warrior</annotation>
+				<annotation label="Person">Louise Parker</annotation>
+				<annotation label="Person">Jennifer Butler</annotation>
+				<annotation label="Organization/Donor">Bloomington Drosophila Stock Center</annotation>
+				<annotation label="Organization/Donor">Indiana University</annotation>
+				<annotation label="Organization/Donor">Harvard Stock Center</annotation>
+				<annotation label="Organization/Donor">Harvard University</annotation>
+				<annotation label="Drosophila Strains">Drosophila strains</annotation>
+				<annotation label="Person/Donor">Pernille Rorth</annotation>
+				<annotation label="Organization/Affiliation">IMCB, Singapore</annotation>
+				<annotation label="Drosophila Strain Name">tubulin-staiB2</annotation>
+				<annotation label="Drosophila Strain Name">stainull</annotation>
+				<annotation label="Line">lines</annotation>
+				<annotation label="Plasmid">pCaSpeR-tub</annotation>
+				<annotation label="Vector">vector</annotation>
+				<annotation label="Person/Donor">Lynne Cassimeris</annotation>
+				<annotation label="Organization/Affiliation">Lehigh University, Bethlehem, PA</annotation>
+				<annotation label="Attribute">human</annotation>
+				<annotation label="Clone Name">STMN1</annotation>
+				<annotation label="Clone">clone</annotation>
+				<annotation label="Person/Donor">Bill Saxton</annotation>
+				<annotation label="Line Name">UC Santa Cruz</annotation>
+				<annotation label="Strain Name">Khc20</annotation>
+				<annotation label="Person">strain</annotation>
+				<annotation label="Person">Angels Almenar-Queralt</annotation>
+				<annotation label="Person">Alison Fisher</annotation>
+				<annotation label="Person">Coreina Teunissen</annotation>
+				<annotation label="Attribute">monoclonal</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">22c10</annotation>
+				<annotation label="Antibody Name">DCSP-2 6D6</annotation>
+				<annotation label="Organization">Benzer lab</annotation>
+				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank</annotation>
+				<annotation label="Organization">University of Iowa, Department of Biology, Iowa City, IA</annotation>
+			</annotationset>
 		</annotations>
 	</acknowledgement>
 	<acknowledgement PMCID="PMC3542070">
@@ -340,6 +424,25 @@
 				<annotation label="Person">Jim Jung-Ching Lin</annotation>
 				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank</annotation>
 				<annotation label="Organization">The University of Iowa, Department of Biology, Iowa City, Iowa</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Person">Susumu Hirabayashi</annotation>
+				<annotation label="Person">Jill Fink</annotation>
+				<annotation label="Organization/Donor">Bloomington Drosophila Stock Center</annotation>
+				<annotation label="Organization/Donor">Vienna Drosophila RNAi Center</annotation>
+				<annotation label="Stocks">stocks</annotation>
+				<annotation label="Attribute">monoclonal</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Antibody Name">Pericardin</annotation>
+				<annotation label="Person">Danielle Gratecos</annotation>
+				<annotation label="Attribute">monoclonal</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Antibody Name">Actin</annotation>
+				<annotation label="Person">Jim Jung-Ching Lin</annotation>
+				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank</annotation>
+				<annotation label="Organization">NICHD</annotation> 
+				<annotation label="Organization">The University of Iowa</annotation>
+				<annotation label="Organization">Department of Biology</annotation>
 			</annotationset>
 		</annotations>
 	</acknowledgement>
@@ -377,6 +480,19 @@
 				<annotation label="Person">Joe Shu</annotation>
 				<annotation label="Organization">UCSD Campus Research Machine Shop</annotation>
 			</annotationset>
+			<annotationset>
+				<annotation label="Person/Donor">Caroline Damsky</annotation>
+				<annotation label="Person/Donor">David Strom</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Organization/Donor">Developmental Studies Hybridoma Bank</annotation>
+				<annotation label="Organization">NICHD</annotation>
+				<annotation label="Organization">The University of Iowa (Iowa City, IA)</annotation>
+				<annotation label="Spinning Disc Device">spinning disc device</annotation>
+				<annotation label="Person">Jeremy Riley</annotation>
+				<annotation label="Person">Ryan Tam</annotation>
+				<annotation label="Person">Joe Shu</annotation>
+				<annotation label="Organization">UCSD</annotation>
+			</annotationset>
 		</annotations>
 	</acknowledgement>
 	</acknowledgement>
@@ -393,6 +509,16 @@
 				<annotation label="Organization">antibodies</annotation>
 				<annotation label="Person">Bérangère Lombard</annotation>
 				<annotation label="Organization">Institut Curie mass spectrometry and proteomics platform</annotation>
+				<annotation label="Person">Fabrice Cordelières</annotation>
+				<annotation label="Person">Pauline Chabosseau</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Person/Donor">Carsten Janke</annotation>
+				<annotation label="Antibody">David J. Chen</annotation>
+				<annotation label="Antibody Name">DNA-PK (P-S2016)</annotation>
+				<annotation label="Organization">antibodies</annotation>
+				<annotation label="Person">Bérangère Lombard</annotation>
+				<annotation label="Organization">Institut Curie</annotation>
 				<annotation label="Person">Fabrice Cordelières</annotation>
 				<annotation label="Person">Pauline Chabosseau</annotation>
 			</annotationset>
@@ -433,6 +559,17 @@
 				<annotation label="Organization">Deutsche Krebshilfe</annotation>
 				<annotation label="Person">Dr. G.E. Arteel</annotation>
 			</annotationset>
+			<annotationset>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Attribute">human</annotation>
+				<annotation label="Antibody Name">CYP2E1</annotation>
+				<annotation label="Antibody Name">CYP3A4</annotation>
+				<annotation label="Person/Donor">Dr. M. Ingelman-Sundberg</annotation>
+				<annotation label="Organization">Deutsche Krebshilfe</annotation>
+				<annotation label="Person">AP</annotation>
+				<annotation label="Person">CB</annotation>
+				<annotation label="Person">Dr. G.E. Arteel</annotation>
+			</annotationset>
 		</annotations>
 	</acknowledgement>
 	<acknowledgement PMCID="PMC3566803">
@@ -440,6 +577,13 @@
 			This work was supported in part by grants-in-aid for Scientific Research 23590929 from the Ministry of Education, Culture, Sports, Science and Technology, Japan. We are grateful to Dr Hiroshi Okamoto from Tohoku University Graduate School of Medicine, Sendai, Japan, for providing the anti-REG Iα antibody.
 		</content>
 		<annotations>
+			<annotationset>
+				<annotation label="Organization">Ministry of Education, Culture, Sports, Science and Technology, Japan</annotation>
+				<annotation label="Person/Donor">Hiroshi Okamoto</annotation>
+				<annotation label="Organization/Affiliation">Tohoku University Graduate School of Medicine, Sendai, Japan</annotation>
+				<annotation label="Antibody Name">anti-REG Iα</annotation>
+				<annotation label="Antibody">antibody</annotation>
+			</annotationset>
 			<annotationset>
 				<annotation label="Organization">Ministry of Education, Culture, Sports, Science and Technology, Japan</annotation>
 				<annotation label="Person/Donor">Hiroshi Okamoto</annotation>
@@ -476,10 +620,21 @@
 				<annotation label="Antibody Name">Ataxin-1</annotation>
 				<annotation label="Antibody Attribute">monoclonal</annotation>
 				<annotation label="Antibody Name">antibodies</annotation>
-				<annotation label="Antibody">UC/Davis</annotation>
-				<annotation label="Construct Name">NINDS</annotation>
-				<annotation label="Construct">NIMH</annotation>
-				<annotation label="Person">NeuroMab Facility</annotation>
+				<annotation label="Organization/Donor">UC/Davis</annotation>
+				<annotation label="Organization/Donor">NINDS</annotation>
+				<annotation label="Organization/Donor">NIMH</annotation>
+				<annotation label="Organization/Donor">NeuroMab Facility</annotation>
+				<annotation label="Person">Martina Callaghan</annotation>
+				<annotation label="Person">Rosella Abeti</annotation>
+				<annotation label="Person">Patrick Lewis</annotation>
+				<annotation label="Person">John Hardy</annotation>
+			</annotationset>
+			<annotationset>
+				<annotation label="Antibody">Ataxin-1 monoclonal antibodies</annotation>
+				<annotation label="Organization/Donor">UC/Davis</annotation>
+				<annotation label="Organization/Donor">NINDS</annotation>
+				<annotation label="Organization/Donor">NIMH</annotation>
+				<annotation label="Organization/Donor">NeuroMab Facility</annotation>
 				<annotation label="Person">Martina Callaghan</annotation>
 				<annotation label="Person">Rosella Abeti</annotation>
 				<annotation label="Person">Patrick Lewis</annotation>
@@ -498,8 +653,217 @@
 				<annotation label="Person/Donor">P. Gleeson</annotation>
 				<annotation label="Antibody">antibodies</annotation>
 			</annotationset>
+			<annotationset>
+				<annotation label="Person/Donor">G. Hime</annotation>
+				<annotation label="Species">Drosophila</annotation>
+				<annotation label="Person/Donor">P. Gleeson</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+			</annotationset>
 		</annotations>
 	</acknowledgement>
+	<acknowledgement PMCID="PMC2811248">
+		<content>
+			We are thankful to Prof. Dr. P. Macheroux (Institute of Biochemistry, Graz University of Technology, Austria) for providing us the Neurospora crassa CS antibody. We thank Dr. Sven Krappmann for helpful discussions. This work was supported by DFG research group grant FOR546.Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Prof. Dr. P. Macheroux</annotation>
+				<annotation label="Organization/Affiliation">Institute of Biochemistry, Graz University of Technology, Austria</annotation>
+				<annotation label="Neurospora crassa">Neurospora crassa</annotation>
+				<annotation label="Antibody Name">CS</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Person/Donor">Dr. Sven Krappmann</annotation> 
+				<annotation label="Organization">DFG research group</annotation>
+				<annotation label="Organization">Creative Commons Attribution Noncommercial License</annotation> 
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3068512">
+		<content>
+			We acknowledge Natalia Shpiro for synthesis of GDC-0941, the antibody purification teams (Division of Signal Transduction Therapy, University of Dundee) co-ordinated by Hilary McLauchlan and James Hastie for generation of antibodies. We thank the Tayside Tissue Bank for immunohistochemistry. We also thank the Medical Research Council, the Wellcome Trust (SLD) and the pharmaceutical companies supporting the Division of Signal Transduction Therapy Unit (AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline, Merck KgaA and Pfizer) for financial support.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">PNatalia Shpiro</annotation>
+				<annotation label="Antibody Name">GDC-0941</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Organization/Donor">Division of Signal Transduction Therapy, University of Dundee</annotation>
+				<annotation label="Person/Donor">Hilary McLauchlan</annotation>
+				<annotation label="Person/Donor">James Hastie</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Organization">Tayside Tissue Bank</annotation>
+				<annotation label="Organization">Medical Research Council</annotation>
+				<annotation label="Organization">Wellcome Trust (SLD)</annotation>
+				<annotation label="Organization">Division of Signal Transduction Therapy Unit</annotation>
+				<annotation label="Organization">AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline</annotation>
+				<annotation label="Organization">Merck KgaA</annotation>
+				<annotation label="Organization">Pfizer</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC4086383">
+		<content>
+			The authors would like to thank Prof Brunangelo FALINI at the University of Perugia for kindly providing the NPM-mutant specific antibody. The authors would also like to thank MD MINDEN (Ontario Cancer Institute, Toronto, ON, Canada) for providing the OCI-AML3 cells. This work was supported by grants from the National Natural Science Foundation of China (No 81070429, 81372541 and 81060048).
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Prof Brunangelo FALINI</annotation>
+				<annotation label="Antibody Name">University of Perugia</annotation>
+				<annotation label="Antibody Name">NPM-mutant</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Person/Donor">MD MINDEN</annotation>
+				<annotation label="Organization/Affiliation">Ontario Cancer Institute, Toronto, ON, Canada</annotation>
+				<annotation label="Cell Name">OCI-AML3</annotation>
+				<annotation label="Cell">cells</annotation>
+				<annotation label="Organization">National Natural Science Foundation of China</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3068512">
+		<content>
+			We acknowledge Natalia Shpiro for synthesis of GDC-0941, the antibody purification teams (Division of Signal Transduction Therapy, University of Dundee) co-ordinated by Hilary McLauchlan and James Hastie for generation of antibodies. We thank the Tayside Tissue Bank for immunohistochemistry. We also thank the Medical Research Council, the Wellcome Trust (SLD) and the pharmaceutical companies supporting the Division of Signal Transduction Therapy Unit (AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline, Merck KgaA and Pfizer) for financial support.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">PNatalia Shpiro</annotation>
+				<annotation label="Antibody Name">GDC-0941</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Organization/Donor">Division of Signal Transduction Therapy, University of Dundee</annotation>
+				<annotation label="Person/Donor">Hilary McLauchlan</annotation>
+				<annotation label="Person/Donor">James Hastie</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Organization">Tayside Tissue Bank</annotation>
+				<annotation label="Organization">Medical Research Council</annotation>
+				<annotation label="Organization">Wellcome Trust (SLD)</annotation>
+				<annotation label="Organization">Division of Signal Transduction Therapy Unit</annotation>
+				<annotation label="Organization">AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline</annotation>
+				<annotation label="Organization">Merck KgaA</annotation>
+				<annotation label="Organization">Pfizer</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3068512">
+		<content>
+			We acknowledge Natalia Shpiro for synthesis of GDC-0941, the antibody purification teams (Division of Signal Transduction Therapy, University of Dundee) co-ordinated by Hilary McLauchlan and James Hastie for generation of antibodies. We thank the Tayside Tissue Bank for immunohistochemistry. We also thank the Medical Research Council, the Wellcome Trust (SLD) and the pharmaceutical companies supporting the Division of Signal Transduction Therapy Unit (AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline, Merck KgaA and Pfizer) for financial support.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">PNatalia Shpiro</annotation>
+				<annotation label="Antibody Name">GDC-0941</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Organization/Donor">Division of Signal Transduction Therapy, University of Dundee</annotation>
+				<annotation label="Person/Donor">Hilary McLauchlan</annotation>
+				<annotation label="Person/Donor">James Hastie</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Organization">Tayside Tissue Bank</annotation>
+				<annotation label="Organization">Medical Research Council</annotation>
+				<annotation label="Organization">Wellcome Trust (SLD)</annotation>
+				<annotation label="Organization">Division of Signal Transduction Therapy Unit</annotation>
+				<annotation label="Organization">AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline</annotation>
+				<annotation label="Organization">Merck KgaA</annotation>
+				<annotation label="Organization">Pfizer</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC3068512">
+		<content>
+			We thank Julie Johnston (Penn Vector Core, University of Pennsylvania, PA, USA) for supplying the recombinant AAV vector pE5/9, Evelyn Bendrat and Michaela Miehe (UKE-HEXT, Hamburg, Germany) for AAV6 production. We thank Siegfried Labeit (Heidelberg, Germany) for providing the anti-titin Z1 antibody and Sakthivel Sadayappan (Loyola University Chicago, IL, USA) for providing antibodies directed against cMyBP-C-2-14aa, Ser273-, and Ser-302-cMyBP-C. We thank Vincent Christoffels and Malou van den Boogaard (Amsterdam, The Netherlands) for providing embryonic mouse heart samples. We also thank Cyriaque Beley (Inserm U974, Paris, France) for supplying the pAAV-U7 plasmid, as well as June Uebeler (UKE-Pharmacology, Hamburg, Germany) for technical help. This work was supported by the Deutsche Forschungsgemeinschaft (FOR-604/1-2, CA 618/1-2), the Fritz Thyssen Stiftung (Az. 10.09.1.139), the seventh Framework Program of the European Union (Health-F2-2009-241577; Big-Heart project), and by the German Centre for Cardiovascular Research (Deutsches Zentrum für Herz-Kreislauf-Forschung e.v., DZHK).Supporting Information is available at EMBO Molecular Medicine Online.The authors declare that they have no conflict of interest.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Julie Johnston</annotation>
+				<annotation label="Organization/Affiliation">Penn Vector Core, University of Pennsylvania</annotation>
+				<annotation label="Recombinant">recombinant</annotation>
+				<annotation label="Vector Name">AAV</annotation>
+				<annotation label="Vector">vector</annotation>
+				<annotation label="Vector Name">pE5/9</annotation>
+				<annotation label="Person">Evelyn Bendrat</annotation>
+				<annotation label="Person">Michaela Miehe</annotation>
+				<annotation label="Organization">UKE-HEXT, Hamburg, Germany</annotation>
+				<annotation label="Vector Name">AAV6</annotation>
+				<annotation label="Person">Siegfried Labeit</annotation>
+				<annotation label="Antibody Name">anti-titin Z1</annotation>
+				<annotation label="Antibody">antibody</annotation>
+				<annotation label="Person/Donor">Sakthivel Sadayappan</annotation>
+				<annotation label="Organization/Affiliation">Loyola University Chicago, IL, USA</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Antibody Name">cMyBP-C-2-14aa</annotation>
+				<annotation label="Attribute">Ser273</annotation>
+				<annotation label="Attribute">Ser-302</annotation>
+				<annotation label="Antibody Name">cMyBP-C</annotation>
+				<annotation label="Person/Donor">Vincent Christoffels</annotation>
+				<annotation label="Person/Donor">Malou van den Boogaard </annotation>
+				<annotation label="Embryonic Mouse Heart ">embryonic mouse heart </annotation>
+				<annotation label="Person/Donor">Cyriaque Beley</annotation>
+				<annotation label="Organization/Affiliation">Inserm U974</annotation>
+				<annotation label="Plasmid Name">pAAV-U7</annotation>
+				<annotation label="Plasmid">plasmid</annotation>
+				<annotation label="Person">June Uebeler</annotation>
+				<annotation label="Organization">UKE-Pharmacology</annotation>
+				<annotation label="Organization">Deutsche Forschungsgemeinschaft</annotation>
+				<annotation label="Organization">Fritz Thyssen Stiftung</annotation>
+				<annotation label="Organization">German Centre for Cardiovascular Research</annotation>
+				<annotation label="Database">EMBO Molecular Medicine Online</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC1884168">
+		<content>
+			The authors thank Dr. P. Ehrenberg for providing CM235 plasmid DNA, Dr. J. Sodroski for providing 517B plasmid DNA, and Dr. T. Hope for providing the GFP-Vpr vector. Ms. I. M. Totillo for manuscript preparation. The following reagents were provided through the AIDS Research and Reference Reagent Program, DAIDS, NIAID, NIH: pLai from Dr. K. Peden, pNL4-3 from Dr. M. Martin, anti-p24 monoclonal antibody from Dr. B. Chesebro and Dr. K. Wehrly, and recombinant soluble CD4 from Progenics Pharmaceuticals, Inc. This work was supported by grants NS31492, DA017618, NS054580, and NS39191 from the National Institutes of Health, Public Health Service.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Dr. P. Ehrenberg</annotation>
+				<annotation label="Plasmid Name">CM235</annotation>
+				<annotation label="Plasmid">plasmid</annotation>
+				<annotation label="Person/Donor">Dr. J. Sodroski</annotation>
+				<annotation label="Plasmid Name">517B</annotation>
+				<annotation label="Plasmid">plasmid</annotation>
+				<annotation label="Person/Donor">Dr. T. Hope</annotation>
+				<annotation label="Construct Name">GFP-Vpr</annotation>
+				<annotation label="Construct">vector</annotation>
+				<annotation label="Person">Ms. I. M. Totillo</annotation>
+				<annotation label="Organization/Donor">AIDS Research and Reference Reagent Program, DAIDS, NIAID, NIH</annotation>
+				<annotation label="Plasmid Name">pLai</annotation>
+				<annotation label="Person/Donor">Dr. K. Peden</annotation>
+				<annotation label="Plasmid Name">pNL4-3</annotation>
+				<annotation label="Organization/Affiliation">Dr. M. Martin</annotation>
+				<annotation label="Antibody">anti-p24 monoclonal antibody</annotation>
+				<annotation label="Person/Donor">Dr. B. Chesebro</annotation>
+				<annotation label="Person/Donor">Dr. K. Wehrly</annotation>
+				<annotation label="Reagent">recombinant soluble CD4</annotation>
+				<annotation label="Organization/Donor">Progenics Pharmaceuticals, Inc</annotation>
+				<annotation label="Organization">National Institutes of Health</annotation>
+				<annotation label="Organization">Public Health Service</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+	<acknowledgement PMCID="PMC2946813">
+		<content>
+			We thank Dr. Ken Mann and Dr. Tom Orfeo from the Department of Biochemistry at the University of Vermont for providing antibodies to factor V, Dr. Michael Nesheim and Dr. Paul Kim from the Department of Biochemistry at Queen’s University for providing cells expressing rMZ-II and rP2-II, and Dr. Kathleen Berkner from the Department of Molecular Cardiology at The Cleveland Clinic for helpful advice. We thank Dr. Susan Kennedy-Kalafatis and Dr. Ed Plow for helpful advice and for critical reading of the manuscript.
+		</content>
+		<annotations>
+			<annotationset>
+				<annotation label="Person/Donor">Dr. Ken Mann</annotation>
+				<annotation label="Person/Donor">Dr. Tom Orfeo</annotation>
+				<annotation label="Affiliation">Department of Biochemistry</annotation>
+				<annotation label="Organization/Affiliation">University of Vermont</annotation>
+				<annotation label="Antibody">antibodies</annotation>
+				<annotation label="Attribute">factor V</annotation>
+				<annotation label="Person/Donor">Dr. Michael Nesheim</annotation>
+				<annotation label="Person/Donor">Dr. Paul Kim</annotation>
+				<annotation label="Organization/Affiliation">Department of Biochemistry at Queen’s University</annotation>
+				<annotation label="Attribute">rMZ-II</annotation>
+				<annotation label="Attribute">rP2-II</annotation>
+				<annotation label="Person">Dr. Kathleen Berkner</annotation>
+				<annotation label="Organization">Department of Molecular Cardiology</annotation>
+				<annotation label="Organization">Cleveland Clinic</annotation>
+				<annotation label="Person">Dr. Susan Kennedy-Kalafatis</annotation>
+				<annotation label="Person">Dr. Ed Plow</annotation>
+			</annotationset>
+		</annotations>
+	</acknowledgement>
+
 
 	
 
